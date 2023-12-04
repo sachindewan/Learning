@@ -1,1 +1,19 @@
 # Learning
+https://lukeparker.dev/
+https://www.jimmybogard.com/
+https://devblogs.microsoft.com/dotnet/
+https://www.milanjovanovic.tech/
+https://stefandjokic.tech/blog
+https://fast-endpoints.com/
+https://www.rahulpnath.com/
+https://codewithmukesh.com/
+https://www.code4it.dev/
+https://andrewlock.net/
+https://code-maze.com/
+https://www.dotnettricks.com/
+https://josipmisko.com/
+https://dotnettutorials.net/
+https://ardalis.com/blog/
+https://codingsonata.com/
+https://davecallan.com/
+https://juliocasal.com/
